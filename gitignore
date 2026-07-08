@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build
+.next/
+dist/
+build/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Vercel
+.vercel/
+
+# Supabase
+.supabase/
